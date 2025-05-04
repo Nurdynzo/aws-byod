@@ -5,4 +5,4 @@ const useRequest = axios.create({
   timeout: 30000,
 });
 
-export {useRequest}
+export { useRequest };
